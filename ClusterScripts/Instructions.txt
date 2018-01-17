@@ -1,0 +1,11 @@
+1)Change mosinit.hoc and upload it
+2)Change Parameters.sh and upload it
+3)Change GetInputFoldersCluster.m and upload it
+
+4)Log in on cluster and run:
+5)./DoAllScripts.sh
+
+6)After all jobs have finished (if you are unsure, run ./RunClusterLeftovers.sh), run:
+7)ProcessResults.sh
+8)PlotResults.sh
+9)Download Results folder
